@@ -1,11 +1,10 @@
-# Facebook Messenger Bot
+# Facebook Messenger Bot For Chamboultou
 
-This example project creates a Facebook Messenger bot, completely
-mirroring the quickstart located in [Messenger Platform docs](https://developers.facebook.com/docs/messenger-platform/guides/quick-start).
+This projet is a ChatBot for Chamboultou a french start-up.
 
-It's an echo bot that responds to a user's message by repeating their message back to them. It also sends a generic template when a message with "generic" text is received. This project is not dependent on any external libraries and can easily be extended.
+This is a clever bot that can understand french language thanks to Wit.ai
 
-![](https://cdn.gomix.com/ca73ace5-3fff-4b8f-81c5-c64452145271%2FmessengerBotGIF.gif)
+![](http://sain-et-naturel.com/wp-content/uploads/2015/07/pate-maison-default-30505-0.jpg)
 
 ## Getting Started
 To get started you need to:
@@ -20,4 +19,6 @@ To get started you need to:
 
 - Copy your app credentials into the `.env` file
 
-For more detailed setup instructions, see [Messenger Platform Quick Start](https://developers.facebook.com/docs/messenger-platform/guides/quick-start).
+
+- Then creat a Shopify Partner account 
+
