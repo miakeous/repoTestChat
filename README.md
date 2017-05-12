@@ -4,7 +4,7 @@ This projet is a ChatBot for Chamboultou a french start-up.
 
 This is a clever bot that can understand french language thanks to Wit.ai
 
-![](https://drfhlmcehrc34.cloudfront.net/cache/a/7/41941855651c35858f7e51de7be9e8.jpg)
+![](http://media.topito.com/wp-content/uploads/2016/06/compo-pyramide-ext-640x360px.ZQHDxGTocGfc.jpg)
 
 ## Getting Started
 To get started you need to:
